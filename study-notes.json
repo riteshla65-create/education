@@ -1,0 +1,81 @@
+[
+  {
+    "book": "iemh1",
+    "chapter": 1,
+    "page": 1,
+    "terms": [
+      "coordinate",
+      "coordinates",
+      "nirdeshank",
+      "निर्देशांक"
+    ],
+    "hinglish": "Coordinates kisi point ka address batate hain.\n\n1. (x, y) mein pehla number horizontal position batata hai.\n2. Doosra number vertical position batata hai.\n3. Example: (3, 2) ke liye origin se 3 units right aur 2 units up jao.\n\nYaad rakho: pehle x, phir y. Example samajhne ke liye diya hai; source neeche hai.",
+    "english": "Coordinates describe the position of a point. In (x, y), x gives its horizontal position and y its vertical position. For example, (3, 2) means 3 units right and 2 units up from the origin. Remember: x first, y second. This is an illustrative example."
+  },
+  {
+    "book": "iemh1",
+    "chapter": 2,
+    "page": 1,
+    "terms": [
+      "polynomial",
+      "polynomials",
+      "bahupad",
+      "बहुपद"
+    ],
+    "hinglish": "Polynomial ek algebraic expression hota hai jisme variable ki powers non-negative whole numbers hoti hain.\n\nLinear polynomial mein highest power 1 hoti hai. Example: 2x + 3. Yahaan x ki power 1 hai.\n\nYaad rakho: linear = degree 1. Yeh study example hai; chapter ka exact text neeche dekh sakte ho.",
+    "english": "A polynomial is an algebraic expression whose variable powers are non-negative integers. A linear polynomial has degree 1. For example, 2x + 3 is linear because the highest power of x is 1. This is an illustrative study example."
+  },
+  {
+    "book": "iesc1",
+    "chapter": 8,
+    "page": 1,
+    "terms": [
+      "atom",
+      "atoms",
+      "atomic",
+      "parmanu",
+      "परमाणु"
+    ],
+    "hinglish": "Atom matter ka bahut chhota building block hai. Tum, hawa aur kitaab—sab atoms se bane hain.\n\nAtom ke centre mein nucleus hota hai, jisme protons aur aam taur par neutrons hote hain. Electrons nucleus ke bahar hote hain.\n\nYaad rakho: atom ke andar bhi chhote particles hote hain; atom ko indivisible samajhna purana model tha. Source chapter neeche hai.",
+    "english": "An atom is a tiny building block of matter. It has a nucleus containing protons and usually neutrons, with electrons outside the nucleus. Atoms themselves contain smaller particles; the idea that atoms were indivisible belonged to an earlier model."
+  },
+  {
+    "book": "iesc1",
+    "chapter": 2,
+    "page": 1,
+    "terms": [
+      "cell",
+      "cells",
+      "koshika",
+      "कोशिका"
+    ],
+    "hinglish": "Cell living things ki basic structural aur functional unit hai.\n\nBacteria jaise organisms ek cell se bane hote hain. Humans jaise organisms bahut saare cells se bane hote hain. Similar cells milkar tissues banate hain.\n\nEasy yaad: cells → tissues → organs. Full textbook source neeche hai.",
+    "english": "A cell is the basic structural and functional unit of living organisms. Bacteria can consist of one cell, while humans have many cells. Groups of similar cells form tissues, and tissues form organs."
+  },
+  {
+    "book": "iesc1",
+    "chapter": 6,
+    "page": 1,
+    "terms": [
+      "force",
+      "forces",
+      "bal",
+      "बल"
+    ],
+    "hinglish": "Force ka simple meaning hai push ya pull.\n\nExample: darwaza dhakka dekar kholna push hai; use apni taraf kheenchna pull hai.\n\nUnbalanced net force kisi object ki speed ya direction badal sakta hai. Force ki unit newton (N) hai. Example samajhne ke liye hai; textbook source neeche hai.",
+    "english": "A force is a push or a pull. Pushing a door open and pulling it towards you are everyday examples. An unbalanced net force can change an object’s velocity. Force is measured in newtons (N). These are illustrative examples."
+  },
+  {
+    "book": "iest1",
+    "chapter": 6,
+    "page": 1,
+    "terms": [
+      "democracy",
+      "democratic",
+      "loktantra",
+      "लोकतंत्र"
+    ],
+    "hinglish": "Democracy mein log governance mein hissa lete hain—seedhe ya apne representatives ke through.\n\nSirf election kaafi nahi: participation, accountability aur logon ke rights bhi important hain.\n\nEasy example: class representative choose karna voting samajhne ka ek chhota example hai; poori democracy isse zyada badi cheez hai. Chapter ka source neeche dekh lo.",
+    "english": "In a democracy, people participate in governance directly or through representatives. Elections matter, but so do participation, accountability and people’s rights. Choosing a class representative is a small analogy for voting; democracy involves much more than that."
+  }
+]

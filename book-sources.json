@@ -1,0 +1,320 @@
+{
+  "edition": "Class IX NCERT catalog retrieved 2026-10-14",
+  "catalogUrl": "https://ncert.nic.in/textbook.php",
+  "verifiedBooks": [
+    {
+      "id": "iemh1",
+      "title": "Ganita Manjari — Part I",
+      "chapters": 8,
+      "selectorUrl": "https://ncert.nic.in/textbook.php?iemh1=0-8"
+    },
+    {
+      "id": "iemh2",
+      "title": "Ganita Manjari — Part II",
+      "chapters": 6,
+      "selectorUrl": "https://ncert.nic.in/textbook.php?iemh2=0-6"
+    },
+    {
+      "id": "iesc1",
+      "title": "Exploration — Science",
+      "chapters": 13,
+      "selectorUrl": "https://ncert.nic.in/textbook.php?iesc1=0-13"
+    },
+    {
+      "id": "iest1",
+      "title": "Understanding Society — Part I",
+      "chapters": 9,
+      "selectorUrl": "https://ncert.nic.in/textbook.php?iest1=0-9"
+    },
+    {
+      "id": "iest2",
+      "title": "Understanding Society — Part II",
+      "chapters": 6,
+      "selectorUrl": "https://ncert.nic.in/textbook.php?iest2=0-6"
+    }
+  ],
+  "pendingParts": [
+    "Ganita Manjari — Part III",
+    "Understanding Society — Part III"
+  ],
+  "notes": "All 42 listed chapter PDFs downloaded from ncert.nic.in. Text extraction can omit diagrams, mathematical notation and complex embedded content. One SST chapter reported an XObject extraction limit; PDF links remain the full source. Parts III are user-requested placeholders, not confirmed official releases. Chapter titles were checked against the actual downloaded PDFs.",
+  "pdfVerification": [
+    {
+      "filename": "iemh101.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iemh101.pdf",
+      "bytes": 1497655,
+      "sha256": "bd5267d4f51e3ef2c091d3dfe70feffa717e5c2ca3fa010aef0f5bb36e8801e7"
+    },
+    {
+      "filename": "iemh102.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iemh102.pdf",
+      "bytes": 2875060,
+      "sha256": "dbc30792858fa1858d248e4802977cb794b537c1a49f166e2777ea37baf57b02"
+    },
+    {
+      "filename": "iemh103.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iemh103.pdf",
+      "bytes": 2489935,
+      "sha256": "f1b291650c2139f101ef623f124aa7bc4ed654771c9c557334089f08acc697a9"
+    },
+    {
+      "filename": "iemh104.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iemh104.pdf",
+      "bytes": 2254660,
+      "sha256": "c18321e78f4da53ccc2e587a143597678ce0e48f0d7bd31d3a8794684ac1d70e"
+    },
+    {
+      "filename": "iemh105.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iemh105.pdf",
+      "bytes": 2191396,
+      "sha256": "f35918e40c5d5ca72b1a9499081ab65a46bddbb625d0188a4597fdca9db71393"
+    },
+    {
+      "filename": "iemh106.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iemh106.pdf",
+      "bytes": 3325755,
+      "sha256": "82afd11834306e742e8c33c8f2b6cb85f346372675e76bec906a857175503a54"
+    },
+    {
+      "filename": "iemh107.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iemh107.pdf",
+      "bytes": 1799139,
+      "sha256": "1093d94c576a695b1fbc6c04d7e2b98001d67340b54ec5ca5c993df4b5698444"
+    },
+    {
+      "filename": "iemh108.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iemh108.pdf",
+      "bytes": 2726466,
+      "sha256": "71fa97928a2aeff91b97f5ac3bc9b8efea2a31b186dffcc9a62029932b355d92"
+    },
+    {
+      "filename": "iemh201.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iemh201.pdf",
+      "bytes": 897066,
+      "sha256": "116328c911a4b3c957bd3e55ea44a2189fef69f7f0ceebe51142f02ad2ac8763"
+    },
+    {
+      "filename": "iemh202.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iemh202.pdf",
+      "bytes": 2491590,
+      "sha256": "4a397aad93ec14d38eb881605f5d2d9b9a97d400af3e0ebc14f60370ce84d23f"
+    },
+    {
+      "filename": "iemh203.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iemh203.pdf",
+      "bytes": 1596404,
+      "sha256": "9944d312bad23619e5c7d2a1b19cfb9bc1cba91b870073a4b4d2c9f7fbe010c5"
+    },
+    {
+      "filename": "iemh204.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iemh204.pdf",
+      "bytes": 3617750,
+      "sha256": "399b08028cb51d253acd2b9942de49a418fbd159bf330de758603426a24d8fb2"
+    },
+    {
+      "filename": "iemh205.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iemh205.pdf",
+      "bytes": 3193269,
+      "sha256": "239eebbe7a7cee9b8c19ac466c2d9d4616c52d31c381737637a7055b502abb44"
+    },
+    {
+      "filename": "iemh206.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iemh206.pdf",
+      "bytes": 3717036,
+      "sha256": "87bbf662953c453ba91b65b1d6b6fde52a74a552eaba183f0cc2deabd4d9955c"
+    },
+    {
+      "filename": "iesc101.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iesc101.pdf",
+      "bytes": 3601705,
+      "sha256": "dc82ff62186838191296abe19bfef785749ca11f9a7f58d06357043a82702e44"
+    },
+    {
+      "filename": "iesc102.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iesc102.pdf",
+      "bytes": 11024748,
+      "sha256": "f50bf0b4d8a7fb0c7b9adffd335acd0d29d807336c0e011cce0ce898aac22a5c"
+    },
+    {
+      "filename": "iesc103.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iesc103.pdf",
+      "bytes": 13793111,
+      "sha256": "a0d1f9b22e6bf084e6ce89d98fa60ec92b956a6f26f3cfdfe2354003d04192fe"
+    },
+    {
+      "filename": "iesc104.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iesc104.pdf",
+      "bytes": 7393239,
+      "sha256": "9a9299f272e2e760b7b58e4ecbf697fd65e51ab0fe181d55c0aff8ce4d19e8a4"
+    },
+    {
+      "filename": "iesc105.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iesc105.pdf",
+      "bytes": 11737442,
+      "sha256": "aad4f4a0a9bcfd429f95454daebaba1ecd10c3e73ce2595250120af60b74b396"
+    },
+    {
+      "filename": "iesc106.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iesc106.pdf",
+      "bytes": 7413450,
+      "sha256": "29b329c7508ffa12ef5114ebe0c9f5602414981aacb7075de37a7869c12351b9"
+    },
+    {
+      "filename": "iesc107.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iesc107.pdf",
+      "bytes": 7711075,
+      "sha256": "90171eb6b71ddb64de9fc33bbd813dc483a7a284d0a063134edb14ea3567bf38"
+    },
+    {
+      "filename": "iesc108.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iesc108.pdf",
+      "bytes": 5780286,
+      "sha256": "b400e01b4d4f045c97c2bfee4508cc1dd1d1f43fa455dc0758e6f21b42d10124"
+    },
+    {
+      "filename": "iesc109.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iesc109.pdf",
+      "bytes": 6766201,
+      "sha256": "d588c71178ea87439e9bce3234dadde876c9b54b71587cf4b1b367860c289d57"
+    },
+    {
+      "filename": "iesc110.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iesc110.pdf",
+      "bytes": 14325226,
+      "sha256": "0ac97e4f2c0a983147f3d5a4e34df5f776f26de88fa8f4ec4e4eda2272e5f49e"
+    },
+    {
+      "filename": "iesc111.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iesc111.pdf",
+      "bytes": 10808712,
+      "sha256": "e00c130dbb0b415c435ffc1be89da297057c4a5a5b01d04c4773440d7ca1748d"
+    },
+    {
+      "filename": "iesc112.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iesc112.pdf",
+      "bytes": 15495811,
+      "sha256": "c3cfe38c7345eb1a9062a9f4d79b236a51b15eba07fb42005e9f4b427402120a"
+    },
+    {
+      "filename": "iesc113.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iesc113.pdf",
+      "bytes": 15306165,
+      "sha256": "c690fbd95e16f6e82f386f8e543114ee61954a829d2e58476850d6f5fb067723"
+    },
+    {
+      "filename": "iest101.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest101.pdf",
+      "bytes": 2124125,
+      "sha256": "b2f6bcdfa113a2aa22b83566c7c10d7675272345bb8e8ee87329ec620e20788b"
+    },
+    {
+      "filename": "iest102.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest102.pdf",
+      "bytes": 21129721,
+      "sha256": "49ac14f6cfaa175cc7e77a61659cf6a219c63a15475d40b5a1ded1112670a0e3"
+    },
+    {
+      "filename": "iest103.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest103.pdf",
+      "bytes": 15986941,
+      "sha256": "304075eec88c0d854645c2a478fff5649abbb53d8b48e753a103aa2e56fb4317"
+    },
+    {
+      "filename": "iest104.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest104.pdf",
+      "bytes": 8837251,
+      "sha256": "eaa8f235cd89d4f8800d20a61e970cf3724539da7ba717b786bee84121d47412"
+    },
+    {
+      "filename": "iest105.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest105.pdf",
+      "bytes": 6124480,
+      "sha256": "cbe0a93f4ad84104d23be24eecb7e39a17fdb3721968bc0ff048b4a634c7157a"
+    },
+    {
+      "filename": "iest106.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest106.pdf",
+      "bytes": 2529682,
+      "sha256": "0c68a44a8e3fd773cf78814061b7299ca355015103255478db5fdbbef7713340"
+    },
+    {
+      "filename": "iest107.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest107.pdf",
+      "bytes": 2741125,
+      "sha256": "14bb378973626e7280dbc09a91815162ff6a4353187bd03b1cff0200a7b077a3"
+    },
+    {
+      "filename": "iest108.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest108.pdf",
+      "bytes": 1540875,
+      "sha256": "613622465160a0f98af38bdbf55c08385ad085c9d747cb736de316db98ce2898"
+    },
+    {
+      "filename": "iest109.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest109.pdf",
+      "bytes": 7568176,
+      "sha256": "09a5428e5111d8e9443ee35157ad352be40fa7a8fcabd04b78fd2095534b4ef4"
+    },
+    {
+      "filename": "iest201.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest201.pdf",
+      "bytes": 14513466,
+      "sha256": "3bbe1e968022d3f964743a45909bdd90f02948e9d82e0e2aa84b5290316fd84b"
+    },
+    {
+      "filename": "iest202.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest202.pdf",
+      "bytes": 18278356,
+      "sha256": "e2a8aac96bfb8f3af3bcd9b6765d7d242a16a59a5b120130dd7e2fb3b1adfe2f"
+    },
+    {
+      "filename": "iest203.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest203.pdf",
+      "bytes": 6552247,
+      "sha256": "486ac7eb7fbee008d2e1bbc4984228f963c50692785db0d178d3db8edb947cc7"
+    },
+    {
+      "filename": "iest204.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest204.pdf",
+      "bytes": 3465612,
+      "sha256": "78295a61f1f39082cd87da29ccf06cb11da99f7627d3479866fb1b33eb5f30ca"
+    },
+    {
+      "filename": "iest205.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest205.pdf",
+      "bytes": 2001009,
+      "sha256": "f1714b6080798e6a57d586875ca48adcfe11820e935e943180714dd91f00d962"
+    },
+    {
+      "filename": "iest206.pdf",
+      "url": "https://ncert.nic.in/textbook/pdf/iest206.pdf",
+      "bytes": 7450654,
+      "sha256": "c2223e6fb1e181e6afe1c5cb9324900e746d9b07a49fad016ae0f7870ccff750"
+    }
+  ],
+  "extractedPages": 1008,
+  "latestCatalogCheck": {
+    "checkedAtUTC": "2026-10-14T14:03:27.691439+00:00",
+    "url": "https://ncert.nic.in/textbook.php",
+    "httpStatus": 200,
+    "htmlSha256": "2d809a2f0ffb395c3ee5aadb6cfd88896fbb703804685f097ab5685f75a6a477",
+    "result": "Class IX currently lists Maths I/II, SST I/II and one Science book. No Part III or Science Part II listed.",
+    "candidatePdfChecks": [
+      {
+        "filename": "iemh301.pdf",
+        "httpStatus": 404,
+        "pdf": false
+      },
+      {
+        "filename": "iest301.pdf",
+        "httpStatus": 404,
+        "pdf": false
+      },
+      {
+        "filename": "iesc201.pdf",
+        "httpStatus": 404,
+        "pdf": false
+      }
+    ]
+  }
+}

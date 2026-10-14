@@ -1,0 +1,46 @@
+CLASSMATE 3.0 — PEHLE YE PADHO
+
+1. Sirf website use karni hai?
+   index.html par double-click karo. Maths, Science aur SST ki library,
+   quick book replies, saved books aur progress turant kaam karenge.
+   PDFs kholne ke liye internet chahiye. Colourful design aur click par
+   3D book-opening animation hai. Book images official NCERT title pages
+   hain; exterior cover images ke links abhi available nahi mile.
+
+2. Bot se kaise poochhein?
+   Study Buddy kholo, sahi book select karo, phir question likho.
+   Example: "Coordinates kya hote hain?" ya "Atom kya hota hai?"
+   Quick mode mein book ke text aur basic topics ke easy notes milte hain.
+   Quick reply ke neeche chapter aur PDF page ka source diya hai.
+   AI mode mein koi bhi text question aur follow-up poochh sakte ho;
+   maths ke step-by-step solutions bhi. Book-only option bhi available hai.
+   New chat se context clear hota hai. Enter sends, Shift+Enter new line.
+   ChatGPT jaisi AI explanations ke liye server par AI key + model connect
+   karna hoga. Bina key ke bhi quick mode chalta hai.
+
+3. Books ke parts:
+   Ganita Manjari: Part I aur Part II verified aur available hain.
+   SST Understanding Society: Part I aur Part II available hain.
+   Science Exploration: NCERT abhi ek hi book list karta hai.
+   Requested Part III cards "Not on NCERT yet" hain. Official Class IX
+   catalog mein Part III nahi mila; uske candidate links bhi 404 hain.
+   Tumhe koi file upload nahi karni. Available books NCERT se already linked hain.
+
+4. Doston ki activity admin ko dikhani hai?
+   Python server start karo (commands README.md mein hain).
+   ADMIN_PASSWORD apne server environment mein privately set karo.
+   Dost Profile mein nickname likhen aur sharing checkbox tick karein.
+   Admin Space mein chapter-open activity dikhegi.
+   Single HTML se alag-alag devices ki activity share nahi hoti.
+
+5. AI key kisi ko mat bhejo aur HTML mein mat daalo.
+   OPENAI_API_KEY aur OPENAI_MODEL sirf server ke environment mein rahenge.
+   AI provider ka bill/account access tumhare provider account par depend hai.
+
+README.md mein poora setup diya hai. Happy studying!
+
+ONLINE HOSTING AB AASAAN HAI:
+README.md ka Deploy to Render link kholo, apne Render account mein login
+karo, phir API key aur admin password privately fill karo. Baaki build/start
+settings render.yaml mein ready hain. Deploy hone par service ka URL share karo.
+Free hosting ki sleep/reset limitations README mein hain.

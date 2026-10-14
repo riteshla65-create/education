@@ -1,0 +1,28 @@
+{
+  "services": [
+    {
+      "type": "web",
+      "name": "classmate-study-portal",
+      "runtime": "python",
+      "plan": "free",
+      "buildCommand": "pip install -r requirements.txt",
+      "startCommand": "python server.py",
+      "healthCheckPath": "/api/status",
+      "autoDeployTrigger": "off",
+      "envVars": [
+        {
+          "key": "OPENAI_API_KEY",
+          "sync": false
+        },
+        {
+          "key": "OPENAI_MODEL",
+          "value": "gpt-5.4-mini"
+        },
+        {
+          "key": "ADMIN_PASSWORD",
+          "sync": false
+        }
+      ]
+    }
+  ]
+}
